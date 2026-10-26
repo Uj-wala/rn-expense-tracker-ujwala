@@ -111,24 +111,4 @@ npm run web
 6. Delete an expense when it is no longer needed.
 7. Restart the app to access previously saved expenses.
 
-## Data Storage
 
-The application uses AsyncStorage to store expense records locally on the device. The data is saved in JSON format and loaded when the application starts.
-
-The current implementation uses local storage and does not require a remote database or backend server.
-
-## Screenshots
-
-Add screenshots of your actual application here to demonstrate the home screen, add-expense screen, and expense-details screen.
-
-For example, after adding screenshot files to your repository:
-
-```markdown
-![Home Screen](assets/screenshots/home.png)
-![Add Expense Screen](assets/screenshots/add-expense.png)
-![Expense Details Screen](assets/screenshots/expense-detail.png)
-```
-
-## License
-
-This project includes the MIT License. Refer to the [LICENSE](LICENSE) file for the license terms.
